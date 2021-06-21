@@ -1,0 +1,14 @@
+# System
+.DS_Store
+
+# IDEA
+.vscode
+.idea
+
+# packages
+package-lock.json
+node_modules
+bower_components
+
+# miniprogram
+miniprogram_npm
